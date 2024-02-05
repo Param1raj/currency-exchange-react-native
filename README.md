@@ -60,10 +60,11 @@ Now that you have successfully run the app, let's modify it.
 You've successfully run and modified your React Native App. :partying_face:
 Now you should be able to see App Like this:
 
-<img src="./assets//images/ssone.jpg" alt="App Screenshot One" width='30'>
-<img src="./assets//images/sstwo.jpg" alt="App Screenshot Two" width='30'>
-<img src="./assets//images/ssthree.jpg" alt="App Screenshot Three" width='30'>
-
+<p align='center'>
+<img src="./assets//images/ssone.jpg" alt="App Screenshot One" width='300'>
+<img src="./assets//images/sstwo.jpg" alt="App Screenshot Two" width='300'>
+<img src="./assets//images/ssthree.jpg" alt="App Screenshot Three" width='300'>
+</p>
 ### Now what?
 
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
