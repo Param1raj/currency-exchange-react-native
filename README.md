@@ -60,9 +60,9 @@ Now that you have successfully run the app, let's modify it.
 You've successfully run and modified your React Native App. :partying_face:
 Now you should be able to see App Like this:
 
-<img src="./assets//images/ssone.jpg" alt="App Screenshot One" width='30%'>
-<img src="./assets//images/sstwo.jpg" alt="App Screenshot Two" width='30%'>
-<img src="./assets//images/ssthree.jpg" alt="App Screenshot Three"width='30%'>
+<img src="./assets//images/ssone.jpg" alt="App Screenshot One" width='30'>
+<img src="./assets//images/sstwo.jpg" alt="App Screenshot Two" width='30'>
+<img src="./assets//images/ssthree.jpg" alt="App Screenshot Three" width='30'>
 
 ### Now what?
 
