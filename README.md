@@ -2,7 +2,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
@@ -58,6 +58,11 @@ Now that you have successfully run the app, let's modify it.
 ## Congratulations! :tada:
 
 You've successfully run and modified your React Native App. :partying_face:
+Now you should be able to see App Like this:
+
+<img src="./assets//images/ssone.jpg" alt="App Screenshot One">
+<img src="./assets//images/sstwo.jpg" alt="App Screenshot Two">
+<img src="./assets//images/ssthree.jpg" alt="App Screenshot Three">
 
 ### Now what?
 
